@@ -8,8 +8,10 @@ Code for basic image processing exercise from Computer Vision course with exampl
 
 ### Dependencies
 
+```
 skimage
 cv2
+```
 
 ## License
 
