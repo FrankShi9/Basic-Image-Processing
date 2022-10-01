@@ -2,7 +2,7 @@
 
 ## Description
 
-Code for basic image processing exercise from Computer Vision course, many functions and ideas can be used for similar tasks.
+Code for basic image processing exercise from Computer Vision course with example input and output images, many functions and ideas can be used for similar tasks.
 
 ## Getting Started
 
